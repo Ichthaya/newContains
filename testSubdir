@@ -1,0 +1,18 @@
+<DOCTYPE html>
+<html lang = 'en'>
+<head>
+<meta charset = 'utf-8' />
+<title>TestSubdir</title>
+<style type = 'text/css'></style>
+<script type = 'text/javascript'>
+window.onload = function(e) {
+
+var abc = {h:'k',a:'b'};
+alert(abc);
+};
+</script>
+</head>
+<body>
+</body>
+
+</html>
